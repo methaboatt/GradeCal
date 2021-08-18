@@ -23,14 +23,3 @@ func gladeCal(score int) string {
 		return "F"
 	}
 }
-
-func gladeCalSw(score int)String{
-	switch score{
-		case score >= 80{
-
-		}
-
-	}
-
-
-}
